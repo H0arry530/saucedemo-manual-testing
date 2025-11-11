@@ -19,7 +19,7 @@ This repository contains my manual testing deliverables for the SauceDemo websit
 ## Tools Used
 - Google Sheets/Docs (for test cases and bug reports)
 - Browser: Google Chrome
-- OS: Windows 10 / macOS (your system)
+- OS: Windows 11
 
 ## Summary
 All test cases were executed manually.
